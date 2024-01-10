@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Adel Elbamby and I'm a full stack web developer, from  egypt </p>
 
 ###
 
