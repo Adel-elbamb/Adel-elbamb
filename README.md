@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adel Ramadan Elbamby</h1>
-<h3 align="center">A Passionate Full-Stack Developer | MERN, Laravel, Django, Odoo ERP</h3>
+<h3 align="center">A Passionate Full-Stack Developer 
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding gif"/>
